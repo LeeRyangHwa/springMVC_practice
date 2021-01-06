@@ -30,6 +30,7 @@
 </head>
 <body>
 <div id="app">
+    vuejs test <br>
     {{ message }}
 </div>
 
